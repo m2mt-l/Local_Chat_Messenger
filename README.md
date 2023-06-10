@@ -44,3 +44,9 @@ waiting to receive
 received "Tenetur similique repudiandae possimus maiores neque quos doloribus. Velit praesentium optio corrupti. Consectetur quibusdam necessitatibus magni minus in quam. Amet veritatis a quos nihil."
 closing socket
 ```
+
+## Setup
+
+```
+pip install Faker
+```
